@@ -41,7 +41,7 @@ Module 8: Transfer Function
 Solve a circuit in frequency response
 Providing background information, instructions, interactive tasks, examples, and exercises in Live Scripts and verifications in Simulink Simscape 
 
-Module 8: Power Calculations
+Module 9: Power Calculations
 
 Calculate AC  Power in a circuit Instantaneous power, Average (real) power, and  Reactive power
 Providing background information, instructions, interactive tasks, examples, and exercises in Live Scripts and verifications in Simulink Simscape 
