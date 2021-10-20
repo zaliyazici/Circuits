@@ -43,5 +43,5 @@ Providing background information, instructions, interactive tasks, examples, and
 
 Module 9: Power Calculations
 
-Calculate AC  Power in a circuit Instantaneous power, Average (real) power, and  Reactive power
+Calculate AC  Power in a circuit such as  Instantaneous power, Average (real) power, Reactive power, and Complex Power. 
 Providing background information, instructions, interactive tasks, examples, and exercises in Live Scripts and verifications in Simulink Simscape 
