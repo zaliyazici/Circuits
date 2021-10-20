@@ -1,7 +1,7 @@
 # Circuits
 Electrical Circuits Virtual Lab
 
-Goal is to design/implementation, testing and verification Electric Circuit problems using MATLAB Simulink Simscape and Live Scripts to understand the concept better.
+Goal is to design/implementation, testing, and verification Electric Circuit problems using MATLAB Simulink Simscape and Live Scripts to understand the concept better.
 
 Module 1: Node Analysis
 
