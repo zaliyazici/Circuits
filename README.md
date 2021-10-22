@@ -36,12 +36,12 @@ Module 7: Sinusoidal Steady State Analysis
 Solve a circuit in the steady state when the input signal is a sinusoid.
 Providing background information, instructions, interactive tasks, examples, and exercises in Live Scripts and verifications in Simulink Simscape 
 
-Module 8: Transfer Function
+Module 7a: Transfer Function
 
 Solve a circuit in frequency response
 Providing background information, instructions, interactive tasks, examples, and exercises in Live Scripts and verifications in Simulink Simscape 
 
-Module 9: Power Calculations
+Module 8: Power Calculations
 
 Calculate AC  Power in a circuit such as  Instantaneous power, Average (real) power, Reactive power, and Complex Power. 
 Providing background information, instructions, interactive tasks, examples, and exercises in Live Scripts and verifications in Simulink Simscape 
