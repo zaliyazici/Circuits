@@ -1,5 +1,5 @@
 # Circuits
-<b> Electrical Circuits Virtual Lab <\b>
+<b> Electrical Circuits Virtual Lab </b>
 
 Goal is to design/implementation, testing, and verification Electric Circuit problems using MATLAB Simulink Simscape and Live Scripts to understand the concept better.
 
