@@ -17,7 +17,7 @@ Providing background information, instructions, interactive tasks, examples, and
 
 <b> Module 4: RC and  RL circuits </b>
 
-<b> Determine the natural and step response of both RL and RC circuits. Analyze circuits with sequential switching.
+Determine the natural and step response of both RL and RC circuits. Analyze circuits with sequential switching.
 Providing background information, instructions, interactive tasks, examples, and exercises in Live Scripts and verifications in Simulink Simscape 
 
 <b> Module 5: RLC circuit </b>
