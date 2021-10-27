@@ -47,8 +47,10 @@ Providing background information, instructions, interactive tasks, examples, and
 
 Electric Circuits MATLAB Grader https://grader.mathworks.com/courses/10252-electric-circuits-i
 
-<b> Help</b>
+<b> MATLAB Online Help</b>
+
 MATLAB Onramp https://www.mathworks.com/learn/tutorials/matlab-onramp.html
+
 MATLAB Simulink Onramp https://matlabacademy.mathworks.com/#simulink
 
 
