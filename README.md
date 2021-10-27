@@ -46,4 +46,8 @@ Calculate AC  Power in a circuit such as  Instantaneous power, Average (real) po
 Providing background information, instructions, interactive tasks, examples, and exercises in Live Scripts and verifications in Simulink Simscape 
 
 MATLAB Onramp https://www.mathworks.com/learn/tutorials/matlab-onramp.html
+MATLAB Simulink Onramp https://matlabacademy.mathworks.com/#simulink
+Electric Circuits MATLAB Grader https://grader.mathworks.com/courses/10252-electric-circuits-i
+
+
 
